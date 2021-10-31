@@ -1,4 +1,4 @@
-# MarsRover2
+# MarsRover
 
 In 2019 I complete the below technical test. In 2021, I wanted to rerun the test again with the same 2 hour time limit and see if I could complete the test within 2 hours
 and what the end result would look like when you factor in how much I've developed my skills since then. This repository is that second attempt.
