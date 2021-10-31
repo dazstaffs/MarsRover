@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MarsRover.Domain.Rover">
+    <Position X="4.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAIAAAAAEAABAgAAAAAAQAQAQAAQAAAAAAAA=</HashCode>
+      <FileName>Abstract\Rover.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MarsRover.Domain.MarsRover">
+    <Position X="4.75" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concrete\MarsRover.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MarsRover.Domain.IRover">
+    <Position X="4.75" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAABAgAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IRover.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
